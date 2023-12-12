@@ -14,3 +14,4 @@ A guide to help us all work together on GitHub!
 * [GitHub Skills](https://skills.github.com/)
 * [GitHub Training](https://githubtraining.github.io/training-manual/#/)
 * [More resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+* https://github.com/elsewhencode/project-guidelines

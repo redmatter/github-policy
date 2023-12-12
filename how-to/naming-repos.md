@@ -26,11 +26,10 @@ The issue with the camel case is that words can be interpreted differently, for 
 ### Be specific
 It is possible that you will need to distinguish between similar concepts in the future, so always choose a name that is more specific.
 
-- Use user-locator-rest-service instead of locator-service or user-rest-service or user-service.
+- Use `user-locator-rest-service` instead of `locator-service` or `user-rest-service` or `user-service`.
 - Be consistent. 
-- How do you want your repositories to be sorted/grouped?
-
-    sapien-tests v/s tests-sapien
+- How do you want your repositories to be sorted/grouped?<br/>
+  For example, `users-api-tests` instead of `tests-users-api`; ideally, use a project prefix followed by specifics.
 
 Remember that a git repo can be cloned into any root directory of your choice:
 

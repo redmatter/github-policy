@@ -36,7 +36,9 @@ Remember that a git repo can be cloned into any root directory of your choice:
 
     git clone https://github.com/user/repo.git myDir
 
-Here, `repo.git` would be cloned into the myDir directory.
+Here, `repo.git` would be cloned into the `myDir` directory. The same can be done for submodules.
+
+    git submodule add https://github.com/user/repo.git Modules/MyStuff
 
 So even if your naming convention for a public repo ended up to be slightly not to your taste, it would still be possible to have your favourite name on the client side.
 

@@ -12,5 +12,5 @@ A guide to help us all work together on GitHub!
 
 ## Resources
 * [GitHub Skills](https://skills.github.com/)
-* [GitHub Training[(https://githubtraining.github.io/training-manual/#/)
+* [GitHub Training](https://githubtraining.github.io/training-manual/#/)
 * [More resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
